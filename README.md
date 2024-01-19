@@ -11,4 +11,6 @@ Daftar Jurnal Gratis Publikasi
 9. https://ejournal.uinib.ac.id/jurnal/index.php/turast/about/editorialPolicies#custom-3
 10. https://e-journal.unair.ac.id/JPMK/Article_Processing_Charge
 11. https://jurnal.politeknik-kebumen.ac.id/index.php/jurpikat/apc-jurpikat
-12. 
+12. https://gramaswara.ub.ac.id/index.php/gramaswara/authorfees
+13. https://journal.unublitar.ac.id/jppnu/index.php/jppnu/AUTHOR-FEES
+14. 
