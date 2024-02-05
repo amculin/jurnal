@@ -2,7 +2,6 @@
 Daftar Jurnal Gratis Publikasi
 1. https://journal.lppmunindra.ac.id/index.php/pkm/about/editorialPolicies#custom-7
 2. http://abdi.ppj.unp.ac.id/index.php/abdi/feew
-3. https://e-journals.dinamika.ac.id/index.php/society/biayapemrosesanartikel
 4. https://ejournal.polman-babel.ac.id/index.php/dulang/open_access_policy
 5. http://jurnal.um-tapsel.ac.id/index.php/martabe/about/editorialPolicies#focusAndScope
 6. https://journal.aiska-university.ac.id/index.php/gemassika/about/submissions#authorFees
