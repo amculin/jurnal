@@ -12,4 +12,4 @@ Daftar Jurnal Gratis Publikasi
 11. https://jurnal.politeknik-kebumen.ac.id/index.php/jurpikat/apc-jurpikat
 12. https://gramaswara.ub.ac.id/index.php/gramaswara/authorfees
 13. https://journal.unublitar.ac.id/jppnu/index.php/jppnu/AUTHOR-FEES
-14. 
+14. https://jurnal.lldikti4.or.id/index.php/jurnaltekno/fee (bukan PKM)
