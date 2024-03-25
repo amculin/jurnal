@@ -13,3 +13,5 @@ Daftar Jurnal Gratis Publikasi
 12. https://gramaswara.ub.ac.id/index.php/gramaswara/authorfees
 13. https://journal.unublitar.ac.id/jppnu/index.php/jppnu/AUTHOR-FEES
 14. https://jurnal.lldikti4.or.id/index.php/jurnaltekno/fee (bukan PKM)
+15. https://ejournals.umn.ac.id/index.php/IJNMT/navigationMenu/view/Author_Fees (bukan pkm)
+16. 
