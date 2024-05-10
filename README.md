@@ -1,4 +1,4 @@
-# jurnal
+# Jurnal Bebas Pembiayaan
 Daftar Jurnal Sinta tanpa biaya publikasi
 
 ## Jurnal PKM
