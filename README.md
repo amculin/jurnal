@@ -1,5 +1,7 @@
 # jurnal
-Daftar Jurnal Gratis Publikasi
+Daftar Jurnal dengan tanpa biaya publikasi
+
+## Jurnal PKM
 1. https://journal.lppmunindra.ac.id/index.php/pkm/about/editorialPolicies#custom-7
 2. http://abdi.ppj.unp.ac.id/index.php/abdi/feew
 4. https://ejournal.polman-babel.ac.id/index.php/dulang/open_access_policy
@@ -12,6 +14,8 @@ Daftar Jurnal Gratis Publikasi
 11. https://jurnal.politeknik-kebumen.ac.id/index.php/jurpikat/apc-jurpikat
 12. https://gramaswara.ub.ac.id/index.php/gramaswara/authorfees
 13. https://journal.unublitar.ac.id/jppnu/index.php/jppnu/AUTHOR-FEES
-14. https://jurnal.lldikti4.or.id/index.php/jurnaltekno/fee (bukan PKM)
-15. https://ejournals.umn.ac.id/index.php/IJNMT/navigationMenu/view/Author_Fees (bukan pkm)
-16. 
+
+## Jurnal Penelitian
+1. https://jurnal.lldikti4.or.id/index.php/jurnaltekno/fee
+2. https://ejournals.umn.ac.id/index.php/IJNMT/navigationMenu/view/Author_Fees
+ 
