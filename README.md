@@ -1,5 +1,5 @@
 # jurnal
-Daftar Jurnal dengan tanpa biaya publikasi
+Daftar Jurnal Sinta tanpa biaya publikasi
 
 ## Jurnal PKM
 1. https://journal.lppmunindra.ac.id/index.php/pkm/about/editorialPolicies#custom-7
