@@ -1,5 +1,5 @@
 # Jurnal Bebas Pembiayaan
-Daftar Jurnal Sinta tanpa biaya publikasi
+Daftar Jurnal Sinta tanpa biaya publikasi untuk bidang Teknik Informatika
 
 ## Jurnal Publikasi Pengabdian Masyarakat
 1. https://journal.lppmunindra.ac.id/index.php/pkm/about/editorialPolicies#custom-7
@@ -28,3 +28,4 @@ Daftar Jurnal Sinta tanpa biaya publikasi
 
 #### Q1
 1. 
+#### Q2
