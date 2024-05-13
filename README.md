@@ -22,7 +22,8 @@ Daftar Jurnal Sinta tanpa biaya publikasi untuk bidang Teknik Informatika
 #### Sinta 2
 #### Sinta 3
 1. https://jurnal.lldikti4.or.id/index.php/jurnaltekno/fee
-2. https://ejournals.umn.ac.id/index.php/IJNMT/navigationMenu/view/Author_Fees
+#### Sinta 4  
+1. https://ejournals.umn.ac.id/index.php/IJNMT/navigationMenu/view/Author_Fees
  
 ### Terindeks Scopus
 
