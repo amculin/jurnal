@@ -28,7 +28,10 @@ Daftar Jurnal Sinta tanpa biaya publikasi untuk bidang Teknik Informatika
 1. https://e-journals.dinamika.ac.id/joti
    
 ### Terindeks Scopus
-
 #### Q1
 1. 
 #### Q2
+1.  
+
+### Terindeks Garuda
+1. https://jurnal.untag-sby.ac.id/index.php/jitsc/apc
