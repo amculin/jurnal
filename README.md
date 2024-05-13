@@ -20,16 +20,11 @@ Daftar Jurnal Sinta tanpa biaya publikasi untuk bidang Teknik Informatika
 ### Terindeks Sinta
 #### Sinta 1
 #### Sinta 2
-1. https://journal.unnes.ac.id/nju/index.php/sji/index
-2. http://e-journal.unair.ac.id/index.php/JISEBI/index
-3. http://jurnalbaca.pdii.lipi.go.id/index.php/baca/index
-4. https://bpostel.kominfo.go.id/index.php/bpostel
-5. https://jiki.cs.ui.ac.id/index.php/jiki/index
-6. https://journals.itb.ac.id/index.php/sostek
-7. https://ejurnal.itenas.ac.id/index.php/elkomika
-9. https://journal.uny.ac.id/index.php/jpv
-10. http://ijair.id/index.php/ijair
-11. http://jurnal.iaii.or.id/index.php/RESTI
+1. http://jurnalbaca.pdii.lipi.go.id/index.php/baca/index
+2. https://bpostel.kominfo.go.id/index.php/bpostel
+3. https://jiki.cs.ui.ac.id/index.php/jiki/index
+4. http://ijair.id/index.php/ijair
+5. https://ojs.unud.ac.id/index.php/lontar
 #### Sinta 3
 1. https://jurnal.lldikti4.or.id/index.php/jurnaltekno/fee
 2. https://jurnal.polindra.ac.id/index.php/jtt/index
@@ -81,7 +76,6 @@ Daftar Jurnal Sinta tanpa biaya publikasi untuk bidang Teknik Informatika
 2. http://section.iaesonline.com/index.php/IJEEI/index
 3. https://ijeecs.iaescore.com/index.php/IJEECS
 4. https://journals.itb.ac.id/index.php/jictra/index
-5. https://journal.binus.ac.id/index.php/commit/index
    
 ### Terindeks Garuda
 1. https://jurnal.untag-sby.ac.id/index.php/jitsc/apc
