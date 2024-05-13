@@ -1,7 +1,7 @@
 # Jurnal Bebas Pembiayaan
 Daftar Jurnal Sinta tanpa biaya publikasi
 
-## Jurnal PKM
+## Jurnal Publikasi Pengabdian Masyarakat
 1. https://journal.lppmunindra.ac.id/index.php/pkm/about/editorialPolicies#custom-7
 2. http://abdi.ppj.unp.ac.id/index.php/abdi/feew
 4. https://ejournal.polman-babel.ac.id/index.php/dulang/open_access_policy
@@ -15,7 +15,16 @@ Daftar Jurnal Sinta tanpa biaya publikasi
 12. https://gramaswara.ub.ac.id/index.php/gramaswara/authorfees
 13. https://journal.unublitar.ac.id/jppnu/index.php/jppnu/AUTHOR-FEES
 
-## Jurnal Penelitian
+## Jurnal Publikasi Penelitian
+
+### Terindeks Sinta
+#### Sinta 1
+#### Sinta 2
+#### Sinta 3
 1. https://jurnal.lldikti4.or.id/index.php/jurnaltekno/fee
 2. https://ejournals.umn.ac.id/index.php/IJNMT/navigationMenu/view/Author_Fees
  
+### Terindeks Scopus
+
+#### Q1
+1. 
