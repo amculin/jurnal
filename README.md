@@ -18,18 +18,22 @@ Daftar Jurnal Sinta tanpa biaya publikasi untuk bidang Teknik Informatika
 ## Jurnal Publikasi Penelitian
 
 ### Terindeks Sinta
+
 #### Sinta 1
 1. https://mev.brin.go.id/index.php/mev/about/submissions#authorGuidelines
+
 #### Sinta 2
-1. http://jurnalbaca.pdii.lipi.go.id/index.php/baca/index
-2. https://bpostel.kominfo.go.id/index.php/bpostel
-3. https://jiki.cs.ui.ac.id/index.php/jiki/index
-4. http://ijair.id/index.php/ijair
-5. https://ejournal.undip.ac.id/index.php/jsinbis
-6. http://josi.ft.unand.ac.id/index.php/josi/index
-7. https://jurnal-ppi.kominfo.go.id/index.php/jppi/index
-8. http://jtsiskom.undip.ac.id/index.php/jtsiskom
-9. https://journal.trunojoyo.ac.id/kursor/about/editorialPolicies#custom-0
+1. https://ejournal.amikompurwokerto.ac.id/index.php/telematika
+2. http://jurnalbaca.pdii.lipi.go.id/index.php/baca/index
+3. https://bpostel.kominfo.go.id/index.php/bpostel
+4. https://jiki.cs.ui.ac.id/index.php/jiki/index
+5. http://ijair.id/index.php/ijair
+6. https://ejournal.undip.ac.id/index.php/jsinbis
+7. http://josi.ft.unand.ac.id/index.php/josi/index
+8. https://jurnal-ppi.kominfo.go.id/index.php/jppi/index
+9. http://jtsiskom.undip.ac.id/index.php/jtsiskom
+10. https://journal.trunojoyo.ac.id/kursor/about/editorialPolicies#custom-0
+
 #### Sinta 3
 1. https://jurnal.polindra.ac.id/index.php/jtt/index
 2. https://teknosi.fti.unand.ac.id/index.php/teknosi/index
@@ -38,8 +42,10 @@ Daftar Jurnal Sinta tanpa biaya publikasi untuk bidang Teknik Informatika
 5. https://jurnal.lldikti4.or.id/index.php/jurnaltekno
 6. http://journal.uinjkt.ac.id/index.php/ti/index
 7. https://ijobas.pelnus.ac.id/index.php/ijobas/Submission#authorFees
+
 #### Sinta 4  
 1. https://ejournal.uin-malang.ac.id/index.php/saintek/index
+
 #### Sinta 5
 1. https://e-journals.dinamika.ac.id/joti
    
