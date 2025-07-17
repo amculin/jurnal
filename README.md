@@ -42,9 +42,13 @@ Daftar Jurnal Sinta tanpa biaya publikasi untuk bidang Teknik Informatika
 5. https://jurnal.lldikti4.or.id/index.php/jurnaltekno
 6. http://journal.uinjkt.ac.id/index.php/ti/index
 7. https://ijobas.pelnus.ac.id/index.php/ijobas/Submission#authorFees
+8. https://ejournal.uin-suka.ac.id/saintek/JISKA/index
+9. https://ejournal.uin-suka.ac.id/saintek/ijid/index
 
 #### Sinta 4  
 1. https://ejournal.uin-malang.ac.id/index.php/saintek/index
+2. https://ejournal.uin-suska.ac.id/index.php/sitekin/index
+3. https://sisfotenika.stmikpontianak.ac.id/index.php/ST/index
 
 #### Sinta 5
 1. https://e-journals.dinamika.ac.id/joti
